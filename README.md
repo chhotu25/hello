@@ -1,2 +1,2 @@
 # hello
-# inial repository to test git with ecilips.
+# Initial repository to test git with ecilips.
